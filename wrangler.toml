@@ -8,7 +8,7 @@ compatibility_flags = ["nodejs_compat"]
 
 # 你的 Cloudflare Account ID（运行 `wrangler whoami` 查看）
 # 也可以删掉本行，让 wrangler 在部署时自动用当前登录账号
-account_id = "REPLACE_WITH_YOUR_ACCOUNT_ID"
+# account_id = "REPLACE_WITH_YOUR_ACCOUNT_ID"
 
 # 静态资源绑定（public 目录会被托管到 / 路径）
 [assets]
