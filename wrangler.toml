@@ -26,5 +26,5 @@ ADMIN_PASSWORD = "admin"
 #   wrangler kv namespace create NODE_NAV_KV --preview
 [[kv_namespaces]]
 binding = "NODE_NAV_KV"
-id = "REPLACE_WITH_YOUR_KV_ID"
-preview_id = "REPLACE_WITH_YOUR_PREVIEW_KV_ID"
+id = "d2c992e261254224a59a799b41ea41cf"
+preview_id = "d2c992e261254224a59a799b41ea41cf"
